@@ -20,6 +20,5 @@ Note: The code assumes that white pixel is the path, black is the wall, entry is
 </p>
 
 <h3>Sample output</h3>
-<img src="https://github.com/manastahir/Maze-solver-in-Java/blob/master/test%20files/output.png" height="400" width="400"/>
 
 For playing around and experiments more exaples can be found <a href="https://github.com/mikepound/mazesolving/tree/master/examples">here</a>. Again Micheal Pound's courtesy.
