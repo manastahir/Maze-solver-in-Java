@@ -16,8 +16,10 @@ Implemeted graph search algorithms for finding the path through large mazes. Giv
 <li>Breadth First Search</li>
 <li>A* Search</li>
 </ul>
+Note: The code assumes that white pixel is the path, black is the wall, entry is on the top wall and exit is on the bottom wall. These limitations could have been solved 
 </p>
 
 <h3>Sample output</h3>
-<img href="https://github.com/manastahir/Maze-solver-in-Java/blob/master/testFiles/Capture.PNG" height="400" width="400">
+<img href="https://github.com/manastahir/Maze-solver-in-Java/blob/master/test%20files/output.png" height="400" width="400"/>
 
+For playing around and experiments more exaples can be found <a href="https://github.com/mikepound/mazesolving/tree/master/examples">here</a>. Again Micheal Pound's courtesy.
