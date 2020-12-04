@@ -19,5 +19,5 @@ Implemeted graph search algorithms for finding the path through large mazes. Giv
 </p>
 
 <h3>Sample output</h3>
-<img href="https://github.com/manastahir/Maze-solver-in-Java/blob/master/testFiles/Capture.PNG">
+<img href="https://github.com/manastahir/Maze-solver-in-Java/blob/master/testFiles/Capture.PNG" height="400" width="400">
 
